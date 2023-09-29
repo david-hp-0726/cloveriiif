@@ -1,0 +1,11 @@
+include cloveriiif/cloveriiif.min.js
+include cloveriiif/cloveriiif.min.js.map
+include cloveriiif/async-*.js
+include cloveriiif/async-*.js.map
+include cloveriiif/*-shared.js
+include cloveriiif/*-shared.js.map
+include cloveriiif/metadata.json
+include cloveriiif/package-info.json
+include README.md
+include LICENSE
+include package.json

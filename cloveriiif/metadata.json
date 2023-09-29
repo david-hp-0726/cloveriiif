@@ -1,0 +1,16 @@
+{
+  "src/lib/components/Cloveriiif.react.js": {
+    "description": "The Cloveriiif component takes one parameter 'iiifLink'.\nIf an iiifLink is not passed in, then it will be set to the\ndefault image \"Crossing the Pend d'Oreille - Kalispel\".",
+    "displayName": "Cloveriiif",
+    "methods": [],
+    "props": {
+      "iiifLink": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The link to the iiif image."
+      }
+    }
+  }
+}
